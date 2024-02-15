@@ -3,6 +3,7 @@ Simple script to help with boolean based SQLi bruteforcing attacks (for educatio
 
 
 ###This script helped me with Tryhackme Room named 'Kitty' by hadrian3689###
+
 You want to know more about it?
 Check here (My wirteup B)) [link]
 
